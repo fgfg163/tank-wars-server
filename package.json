@@ -1,0 +1,22 @@
+{
+  "name": "tank-wars-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgfg163/tank-wars-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fgfg163/tank-wars-server/issues"
+  },
+  "homepage": "https://github.com/fgfg163/tank-wars-server#readme",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
+}
