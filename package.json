@@ -18,6 +18,8 @@
   "homepage": "https://github.com/fgfg163/tank-wars-server#readme",
   "dependencies": {
     "commander": "^2.11.0",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "moment": "^2.19.1",
+    "uuid": "^3.1.0"
   }
 }
